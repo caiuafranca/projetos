@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 1ac6c50c292ebd840a3fa201aa87ebd3
+timeCreated: 1431002029
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chao_0
+    21300002: Chao_1
+    21300004: Chao_2
+    21300006: Chao_3
+    21300008: Chao_4
+    21300010: Chao_5
+    21300012: Chao_6
+    21300014: Chao_8
+    21300016: Chao_9
+    21300018: Chao_10
+    21300020: Chao_11
+    21300022: Chao_12
+    21300024: Chao_13
+    21300026: Chao_14
+    21300028: Chao_15
+    21300030: Chao_16
+    21300032: Chao_7
+    21300034: Chao_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chao_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 96
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 192
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 23
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 264
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 145
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 119
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 119
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 90
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chao_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 242
+        width: 264
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

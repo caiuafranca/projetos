@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CAIUA</Machine>
+    <WindowsUser>Caiuá</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>30b0bc16-2300-4270-b978-1ed2d2b6483a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>792DBEE07FDA4840A4135AE122759885E340BCC28B4A70114B59CD0541E5FA42</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>30b0bc16-2300-4270-b978-1ed2d2b6483a_1.0.0.0_neutral__20h432fhjp1d8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>30b0bc16-2300-4270-b978-1ed2d2b6483a_20h432fhjp1d8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>30b0bc16-2300-4270-b978-1ed2d2b6483a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Caiuá</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-11T13:32:18.297</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\JogoDaMemoria.Windows.exe">
+      <PackagePath>JogoDaMemoria.Windows.exe</PackagePath>
+      <Modified>2015-05-11T13:32:17.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-11T13:31:52.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-11T13:31:52.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\JogoDaMemoria.Windows.xr.xml">
+      <PackagePath>JogoDaMemoria.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-11T13:28:56.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-11T13:32:17.760</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

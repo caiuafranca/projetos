@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8DA5AB2F-A821-0B41-9932-628E38C24B78}") = "CorraZombie", "Assembly-CSharp.csproj", "{550F0DE2-CB1F-466B-1C0F-740793262695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{550F0DE2-CB1F-466B-1C0F-740793262695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550F0DE2-CB1F-466B-1C0F-740793262695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550F0DE2-CB1F-466B-1C0F-740793262695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550F0DE2-CB1F-466B-1C0F-740793262695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

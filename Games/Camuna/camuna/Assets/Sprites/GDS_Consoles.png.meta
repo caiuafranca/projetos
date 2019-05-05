@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 8b9fc2ba2f1a1b34da3c330a27c5e40a
+timeCreated: 1453730739
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GDS_Consoles_0
+    21300002: GDS_Consoles_1
+    21300004: GDS_Consoles_2
+    21300006: GDS_Consoles_3
+    21300008: GDS_Consoles_4
+    21300010: GDS_Consoles_5
+    21300012: GDS_Consoles_6
+    21300014: GDS_Consoles_7
+    21300016: GDS_Consoles_8
+    21300018: GDS_Consoles_9
+    21300020: GDS_Consoles_10
+    21300022: GDS_Consoles_11
+    21300024: GDS_Consoles_12
+    21300026: GDS_Consoles_13
+    21300028: GDS_Consoles_14
+    21300030: GDS_Consoles_15
+    21300032: GDS_Consoles_16
+    21300034: GDS_Consoles_17
+    21300036: GDS_Consoles_18
+    21300038: GDS_Consoles_19
+    21300040: GDS_Consoles_20
+    21300042: GDS_Consoles_21
+    21300044: GDS_Consoles_22
+    21300046: GDS_Consoles_23
+    21300048: GDS_Consoles_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GDS_Consoles_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 301
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30.5}
+        - {x: -30, y: 23.5}
+        - {x: -30, y: -13.5}
+        - {x: -26, y: -21.5}
+        - {x: 0, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 2.5}
+        - {x: 9, y: 30.5}
+    - name: GDS_Consoles_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 301
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 28.5}
+        - {x: -36, y: 13.5}
+        - {x: -36, y: 1.5}
+        - {x: -8, y: -26.5}
+        - {x: 0, y: -28.5}
+        - {x: 36, y: -28.5}
+        - {x: 36, y: 16.5}
+        - {x: 5, y: 28.5}
+    - name: GDS_Consoles_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 301
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 30.5}
+        - {x: 0, y: 30.5}
+        - {x: -25, y: 19.5}
+        - {x: -37, y: -8.5}
+        - {x: -37, y: -30.5}
+        - {x: 13, y: -30.5}
+        - {x: 25, y: -18.5}
+        - {x: 37, y: -4.5}
+        - {x: 37, y: 20.5}
+    - name: GDS_Consoles_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 303
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -10.5}
+        - {x: -7.5, y: -9.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -24.5, y: -5.5}
+        - {x: -27.5, y: -4.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -5.5, y: -10.5}
+        - {x: -0.5, y: -12.5}
+        - {x: 7.5, y: -12.5}
+        - {x: 27.5, y: -3.5}
+        - {x: 37.5, y: 1.5}
+        - {x: 37.5, y: 16.5}
+        - {x: 15.5, y: 26.5}
+        - {x: -7.5, y: 26.5}
+        - {x: -37.5, y: 1.5}
+        - {x: -37.5, y: -26.5}
+        - {x: -3.5, y: -26.5}
+        - {x: -1.5, y: -24.5}
+        - {x: -1.5, y: -14.5}
+    - name: GDS_Consoles_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 302
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 28.5}
+        - {x: 1.5, y: 28.5}
+        - {x: -27.5, y: 0.5}
+        - {x: -34.5, y: -11.5}
+        - {x: -34.5, y: -28.5}
+        - {x: 11.5, y: -28.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 34.5, y: -12.5}
+        - {x: 34.5, y: 21.5}
+    - name: GDS_Consoles_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 302
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 27.5}
+        - {x: -24, y: 16.5}
+        - {x: -23, y: 5.5}
+        - {x: -20, y: 2.5}
+        - {x: -17, y: -1.5}
+        - {x: -14, y: -4.5}
+        - {x: -19, y: -0.5}
+        - {x: -26, y: 2.5}
+        - {x: -36, y: -10.5}
+        - {x: -36, y: -27.5}
+        - {x: 3, y: -27.5}
+        - {x: 36, y: -3.5}
+        - {x: 36, y: 18.5}
+        - {x: 12, y: 27.5}
+    - name: GDS_Consoles_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -35, y: 14}
+        - {x: -35, y: -25}
+        - {x: 16, y: -25}
+        - {x: 35, y: -6}
+        - {x: 35, y: 14}
+        - {x: 24, y: 25}
+    - name: GDS_Consoles_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 223
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25.5}
+        - {x: -32, y: 13.5}
+        - {x: -22, y: 0.5}
+        - {x: -12, y: -9.5}
+        - {x: -24, y: 0.5}
+        - {x: -36, y: -3.5}
+        - {x: -36, y: -25.5}
+        - {x: 2, y: -25.5}
+        - {x: 36, y: -5.5}
+        - {x: 36, y: 20.5}
+        - {x: 32, y: 25.5}
+    - name: GDS_Consoles_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 225
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 26.5}
+        - {x: -30, y: 16.5}
+        - {x: -37, y: -7.5}
+        - {x: -37, y: -26.5}
+        - {x: 24, y: -26.5}
+        - {x: 37, y: -4.5}
+        - {x: 37, y: 13.5}
+        - {x: 9, y: 26.5}
+    - name: GDS_Consoles_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 222
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 30}
+        - {x: -6.5, y: 23}
+        - {x: -13.5, y: 15}
+        - {x: -36.5, y: -10}
+        - {x: -36.5, y: -28}
+        - {x: -29.5, y: -30}
+        - {x: 15.5, y: -30}
+        - {x: 36.5, y: -12}
+        - {x: 36.5, y: 23}
+        - {x: 19.5, y: 30}
+    - name: GDS_Consoles_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 224
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 26}
+        - {x: -19.5, y: 17}
+        - {x: -36.5, y: -7}
+        - {x: -36.5, y: -26}
+        - {x: 9.5, y: -26}
+        - {x: 36.5, y: -8}
+        - {x: 36.5, y: 23}
+        - {x: 25.5, y: 26}
+    - name: GDS_Consoles_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 222
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21}
+        - {x: -25, y: -1}
+        - {x: -25, y: -15}
+        - {x: -24, y: -19}
+        - {x: -20, y: -28}
+        - {x: 18, y: -28}
+        - {x: 25, y: -26}
+        - {x: 25, y: 28}
+        - {x: 2, y: 28}
+    - name: GDS_Consoles_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 28}
+        - {x: -10, y: 28}
+        - {x: -29, y: 16}
+        - {x: -29, y: -6}
+        - {x: -17, y: -28}
+        - {x: 29, y: -28}
+        - {x: 29, y: 15}
+        - {x: 24, y: 24}
+    - name: GDS_Consoles_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 141
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 31.5}
+        - {x: -38, y: 23.5}
+        - {x: -38, y: -31.5}
+        - {x: 18, y: -31.5}
+        - {x: 38, y: -20.5}
+        - {x: 38, y: 31.5}
+    - name: GDS_Consoles_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 29.5}
+        - {x: -9, y: 17.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -10.5}
+        - {x: -17, y: -1.5}
+        - {x: -36, y: -13.5}
+        - {x: -36, y: -29.5}
+        - {x: 14, y: -29.5}
+        - {x: 36, y: -15.5}
+        - {x: 36, y: 29.5}
+    - name: GDS_Consoles_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 142
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 26}
+        - {x: -18.5, y: 17}
+        - {x: -12.5, y: -9}
+        - {x: -18.5, y: 0}
+        - {x: -22.5, y: 4}
+        - {x: -30.5, y: 6}
+        - {x: -33.5, y: 4}
+        - {x: -33.5, y: -26}
+        - {x: 27.5, y: -26}
+        - {x: 33.5, y: -23}
+        - {x: 33.5, y: 23}
+        - {x: 25.5, y: 26}
+    - name: GDS_Consoles_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 143
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 29}
+        - {x: -26.5, y: 21}
+        - {x: -37.5, y: 0}
+        - {x: -37.5, y: -24}
+        - {x: -32.5, y: -29}
+        - {x: 27.5, y: -29}
+        - {x: 37.5, y: -22}
+        - {x: 37.5, y: 16}
+        - {x: 16.5, y: 29}
+    - name: GDS_Consoles_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 142
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -28.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 15.5, y: -30.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 36.5, y: -15.5}
+        - {x: 36.5, y: 23.5}
+        - {x: 29.5, y: 30.5}
+        - {x: 4.5, y: 30.5}
+        - {x: -10.5, y: 27.5}
+        - {x: -13.5, y: 5.5}
+        - {x: -8.5, y: -9.5}
+        - {x: -4.5, y: -12.5}
+        - {x: -5.5, y: -15.5}
+        - {x: -5.5, y: -17.5}
+        - {x: -1.5, y: -21.5}
+        - {x: -0.5, y: -21.5}
+        - {x: 0.5, y: -23.5}
+        - {x: -6.5, y: -18.5}
+        - {x: -7.5, y: -11.5}
+        - {x: -11.5, y: -6.5}
+        - {x: -22.5, y: -5.5}
+        - {x: -33.5, y: -11.5}
+        - {x: -36.5, y: -15.5}
+        - {x: -36.5, y: -30.5}
+        - {x: 0.5, y: -30.5}
+    - name: GDS_Consoles_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 68
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: GDS_Consoles_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 19}
+        - {x: -18, y: -8}
+        - {x: 0, y: -19}
+        - {x: 18, y: -19}
+        - {x: 18, y: 10}
+        - {x: 2, y: 19}
+    - name: GDS_Consoles_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 74
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -7}
+        - {x: -4.5, y: -17}
+        - {x: 17.5, y: -17}
+        - {x: 17.5, y: 8}
+        - {x: 16.5, y: 12}
+        - {x: 6.5, y: 17}
+        - {x: -17.5, y: 17}
+    - name: GDS_Consoles_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 69
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 21.5}
+        - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -13.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -3.5, y: -21.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 22.5, y: 7.5}
+        - {x: 14.5, y: 15.5}
+    - name: GDS_Consoles_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 73
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 18.5}
+        - {x: -3.5, y: 18.5}
+        - {x: -22.5, y: 7.5}
+        - {x: -22.5, y: -13.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 21.5, y: -11.5}
+        - {x: 22.5, y: -8.5}
+        - {x: 22.5, y: 14.5}
+    - name: GDS_Consoles_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 63
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.5}
+        - {x: -22, y: 8.5}
+        - {x: -22, y: -26.5}
+        - {x: -14, y: -29.5}
+        - {x: 13, y: -29.5}
+        - {x: 22, y: -26.5}
+        - {x: 22, y: 28.5}
+        - {x: 21, y: 29.5}
+    - name: GDS_Consoles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 18.5}
+        - {x: -105, y: -18.5}
+        - {x: 105, y: -18.5}
+        - {x: 105, y: 18.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

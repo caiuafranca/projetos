@@ -1,0 +1,26 @@
+1. Ler um número inteiro e imprimir se ele é par ou ímpar.
+Exemplo de tela de saída:
+
+    Entre com um numero inteiro: 36
+    O numero 36 e par.
+
+2. Ler três números inteiros e exibir o maior deles. Se forem iguais exibir qualquer um dos três.
+
+Exemplo de tela de saída:
+
+    Entre com 3 numeros inteiros: 54 4 -2
+    O maior numero e o 54.
+
+3 . Fazer um programa que calcule e imprima o fatorial de um número fornecido pelo usuário. Repetir a execução do programa tantas até o usuário responder nao. O fatorial de um número inteiro positivo é definido como o número multiplicado por ele menos 1, menos 2, etc até o valor 1. Por exemplo, o fatorial de 4 é 4x3x2x1=24.
+
+Exemplo de tela de saída:
+
+            Entre com um numero: 5
+            O fatorial de 5 é 120
+            Outro número (s/n) ? n
+
+4. Ler 10 números inteiros (um de cada vez) e verificar:
+	Se número é menor que 50, imprimir seu TRIPLO.	
+	Se número está entre 50 e 100, imprimir seu DOBRO
+	Se número é maior ou igual a 100, imprimir sua METADE
+

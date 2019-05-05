@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CAIUA</Machine>
+    <WindowsUser>Caiuá</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>30b0bc16-2300-4270-b978-1ed2d2b6483a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\JogoDaMemoria.Windows.exe">
+      <PackagePath>JogoDaMemoria.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\JogoDaMemoria.Windows.xr.xml">
+      <PackagePath>JogoDaMemoria.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Games\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

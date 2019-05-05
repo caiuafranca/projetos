@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 5b7d23ced00b9c848a5fe2ac2a561f0a
+timeCreated: 1450121101
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CarsRed_0
+    21300002: CarsRed_1
+    21300004: CarsRed_2
+    21300006: CarsRed_3
+    21300008: CarsRed_4
+    21300010: CarsRed_5
+    21300012: CarsRed_6
+    21300014: CarsRed_7
+    21300016: CarsRed_8
+    21300018: CarsRed_9
+    21300020: CarsRed_10
+    21300022: CarsRed_11
+    21300024: CarsRed_12
+    21300026: CarsRed_13
+    21300028: CarsRed_14
+    21300030: CarsRed_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CarsRed_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 203
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: CarsRed_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: CarsRed_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: CarsRed_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 148
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 17}
+    - name: CarsRed_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: CarsRed_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: CarsRed_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: CarsRed_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 17}
+        - {x: -28, y: 16}
+        - {x: -28, y: -17}
+        - {x: 28, y: -17}
+        - {x: 28, y: 15}
+        - {x: 26, y: 17}
+    - name: CarsRed_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    - name: CarsRed_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -28}
+        - {x: 17, y: -28}
+        - {x: 17, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

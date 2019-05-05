@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 7b7fa686407ee694ea8f3afe20ba2f8f
+timeCreated: 1450124043
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: racecars_0
+    21300002: racecars_1
+    21300004: racecars_2
+    21300006: racecars_3
+    21300008: racecars_4
+    21300010: racecars_5
+    21300012: racecars_6
+    21300014: racecars_7
+    21300016: racecars_8
+    21300018: racecars_9
+    21300020: racecars_10
+    21300022: racecars_11
+    21300024: racecars_12
+    21300026: racecars_13
+    21300028: racecars_14
+    21300030: racecars_15
+    21300032: racecars_16
+    21300034: racecars_17
+    21300036: racecars_18
+    21300038: racecars_19
+    21300040: racecars_20
+    21300042: racecars_21
+    21300044: racecars_22
+    21300046: racecars_23
+    21300048: racecars_24
+    21300050: racecars_25
+    21300052: racecars_26
+    21300054: racecars_27
+    21300056: racecars_28
+    21300058: racecars_29
+    21300060: racecars_30
+    21300062: racecars_31
+    21300064: racecars_32
+    21300066: racecars_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: racecars_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 408
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 50}
+        - {x: -22.5, y: -50}
+        - {x: 22.5, y: -50}
+        - {x: 22.5, y: 50}
+    - name: racecars_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 409
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 49.5}
+        - {x: -22, y: -49.5}
+        - {x: 22, y: -49.5}
+        - {x: 22, y: 49.5}
+    - name: racecars_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 406
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 51}
+        - {x: -23, y: -51}
+        - {x: 23, y: -51}
+        - {x: 23, y: 51}
+    - name: racecars_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 409
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 49.5}
+        - {x: -23, y: -49.5}
+        - {x: 23, y: -49.5}
+        - {x: 23, y: 49.5}
+    - name: racecars_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 407
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 50.5}
+        - {x: -23, y: -50.5}
+        - {x: 23, y: -50.5}
+        - {x: 23, y: 50.5}
+    - name: racecars_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 408
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 48.5}
+        - {x: -22.5, y: -48.5}
+        - {x: 22.5, y: -48.5}
+        - {x: 22.5, y: 48.5}
+    - name: racecars_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 309
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 49}
+        - {x: -22.5, y: -49}
+        - {x: 22.5, y: -49}
+        - {x: 22.5, y: 49}
+    - name: racecars_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 311
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48}
+        - {x: -22, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 48}
+    - name: racecars_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 311
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48.5}
+        - {x: -22, y: -48.5}
+        - {x: 22, y: -48.5}
+        - {x: 22, y: 48.5}
+    - name: racecars_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 47.5}
+        - {x: -23, y: -47.5}
+        - {x: 23, y: -47.5}
+        - {x: 23, y: 47.5}
+    - name: racecars_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 309
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48.5}
+        - {x: -22, y: -48.5}
+        - {x: 22, y: -48.5}
+        - {x: 22, y: 48.5}
+    - name: racecars_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 309
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 48}
+        - {x: -23, y: -48}
+        - {x: 23, y: -48}
+        - {x: 23, y: 48}
+    - name: racecars_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 49.5}
+        - {x: -24.5, y: -49.5}
+        - {x: 24.5, y: -49.5}
+        - {x: 24.5, y: 49.5}
+    - name: racecars_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 196
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 50.5}
+        - {x: -22.5, y: -50.5}
+        - {x: 22.5, y: -50.5}
+        - {x: 22.5, y: 50.5}
+    - name: racecars_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 395
+        width: 52
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54.5}
+        - {x: -26, y: -54.5}
+        - {x: 26, y: -54.5}
+        - {x: 26, y: 54.5}
+    - name: racecars_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 396
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 54}
+        - {x: -22.5, y: -54}
+        - {x: 22.5, y: -54}
+        - {x: 22.5, y: 54}
+    - name: racecars_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 235
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 76}
+        - {x: -35, y: -76}
+        - {x: 35, y: -76}
+        - {x: 35, y: 76}
+    - name: racecars_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 234
+        width: 59
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 77}
+        - {x: -29.5, y: -77}
+        - {x: 29.5, y: -77}
+        - {x: 29.5, y: 77}
+    - name: racecars_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 53
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 45.5}
+        - {x: -18, y: -45.5}
+        - {x: 18, y: -45.5}
+        - {x: 18, y: 45.5}
+    - name: racecars_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 103
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: racecars_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 102
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: racecars_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 424
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: 21.5, y: -39}
+        - {x: 21.5, y: 39}
+    - name: racecars_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 422
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 42}
+        - {x: -18, y: -42}
+        - {x: 18, y: -42}
+        - {x: 18, y: 42}
+    - name: racecars_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 420
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40.5}
+        - {x: -20, y: -40.5}
+        - {x: 20, y: -40.5}
+        - {x: 20, y: 40.5}
+    - name: racecars_24
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 419
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 40.5}
+        - {x: -20.5, y: -40.5}
+        - {x: 20.5, y: -40.5}
+        - {x: 20.5, y: 40.5}
+    - name: racecars_25
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 418
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 41}
+        - {x: -19.5, y: -41}
+        - {x: 19.5, y: -41}
+        - {x: 19.5, y: 41}
+    - name: racecars_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 294
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 49.5}
+        - {x: -21, y: -49.5}
+        - {x: 21, y: -49.5}
+        - {x: 21, y: 49.5}
+    - name: racecars_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 291
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 52}
+        - {x: -22, y: -52}
+        - {x: 22, y: -52}
+        - {x: 22, y: 52}
+    - name: racecars_28
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 290
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 53}
+        - {x: -21.5, y: -53}
+        - {x: 21.5, y: -53}
+        - {x: 21.5, y: 53}
+    - name: racecars_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 291
+        width: 45
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 53}
+        - {x: -22.5, y: -53}
+        - {x: 22.5, y: -53}
+        - {x: 22.5, y: 53}
+    - name: racecars_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 176
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 45.5}
+        - {x: -24, y: -45.5}
+        - {x: 24, y: -45.5}
+        - {x: 24, y: 45.5}
+    - name: racecars_31
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 176
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 45}
+        - {x: -21.5, y: -45}
+        - {x: 21.5, y: -45}
+        - {x: 21.5, y: 45}
+    - name: racecars_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 176
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 45.5}
+        - {x: -21.5, y: -45.5}
+        - {x: 21.5, y: -45.5}
+        - {x: 21.5, y: 45.5}
+    - name: racecars_33
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 175
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 46}
+        - {x: -19.5, y: -46}
+        - {x: 19.5, y: -46}
+        - {x: 19.5, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
